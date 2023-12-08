@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start-01.unity
+    guid: 01e85fedc4d0fec4d9e73493984c7fd3
+  - enabled: 1
+    path: Assets/Scenes/choose-player-02.unity
+    guid: d938a9b75c2de18489d489c421f8e96e
+  - enabled: 1
+    path: Assets/Scenes/P1-P4-03.unity
+    guid: b897c83a61032bf46917cfce91248b07
+  - enabled: 1
+    path: Assets/Scenes/GameIntro.unity
+    guid: 6dff91d78762957429988c190d7d53af
+  - enabled: 1
+    path: Assets/Scenes/Scne_GamePlay.unity
+    guid: e4564a2b7662bfe4c973fdcef096da35
+  - enabled: 1
+    path: Assets/Scenes/Scene_Runnin.unity
+    guid: e38b3b3f7c0708749bd518f448a672f0
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 0fb3bec44cf127b47b05261155fcd034
+  - enabled: 1
+    path: Assets/Scenes/RingTeach.unity
+    guid: 8746acec917b7054da9d5c21286cf7ec
+  m_configObjects: {}
